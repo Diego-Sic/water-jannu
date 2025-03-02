@@ -135,8 +135,8 @@ function Game() {
         <div className="max-w-md mx-auto mt-4 text-left">
           <p className="font-bold">Controls de Jannu</p>
           <ul className="list-disc pl-5">
-            <li>Fireboy (red): Arrow keys ( I am already there )</li>
-            <li>Watergirl (blue): WASD keys</li>
+            <li>Sicboy (red): Arrow keys ( I am already there )</li>
+            <li>WaterJannu (blue): WASD keys</li>
           </ul>
         </div>
       )}
