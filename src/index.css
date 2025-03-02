@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&display=swap');
+@import "tailwindcss"; 
+
+@theme {
+    --color-mint-500: RGB(255, 191, 0);
+    --font-display: "Gamja Flower", serif;
+  }
+
+:root {
+    background-color: var(--color-mint-500);
+}
